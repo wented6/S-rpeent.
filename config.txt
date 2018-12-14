@@ -1,5 +1,5 @@
 token=NTIzMjEwMzkwMDAwMzY5Njk0.DvWNPg.oSORY4jFUZnuu4my7i01_8oC8Gs
-owner=
+owner=515190076347645963
 prefix= -
 game= Mafia
 stayinchannel=false
